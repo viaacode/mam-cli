@@ -1,0 +1,5 @@
+env_secrets: qas.env.secrets
+rabbitmq:
+    host: 
+    port: 
+    del_queue: 

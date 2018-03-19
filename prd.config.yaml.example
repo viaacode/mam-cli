@@ -1,0 +1,5 @@
+env_secrets: prd.env.secrets
+rabbitmq:
+    host: 
+    port: 
+    del_queue: 
